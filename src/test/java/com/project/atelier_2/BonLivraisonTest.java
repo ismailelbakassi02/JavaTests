@@ -1,7 +1,3 @@
-package com.project.atelier_2;
-
-import com.project.atelier_2.BonLivraison;
-
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

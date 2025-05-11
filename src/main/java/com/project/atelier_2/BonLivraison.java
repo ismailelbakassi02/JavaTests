@@ -1,4 +1,3 @@
-package com.project.atelier_2;
 public class BonLivraison {
     private String numero;
     private String dateLivraison;
